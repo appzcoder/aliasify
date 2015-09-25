@@ -20,7 +20,5 @@
         "psr-4": {
             "Appzcoder\\AliasMaker\\": "src/"
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true    
+    }
 }
