@@ -20,7 +20,6 @@
         "psr-4": {
             "Appzcoder\\AliasMaker\\": "src/"
         }
-    }
-    "minimum-stability": "dev",
-    "prefer-stable": true  
+    },
+    "minimum-stability": "dev"
 }
