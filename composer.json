@@ -21,4 +21,5 @@
             "Appzcoder\\AliasMaker\\": "src/"
         }
     }
+    "minimum-stability": "dev"    
 }
