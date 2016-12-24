@@ -1,11 +1,12 @@
 {
-    "name": "appzcoder/alias-maker",
+    "name": "appzcoder/aliasify",
     "license": "MIT",
     "description": "Class Alias Maker",
     "keywords": [
+        "aliasify",
         "alias maker",
         "facade"
-    ],    
+    ],
     "authors": [
         {
             "name": "Sohel Amin",
@@ -18,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Appzcoder\\AliasMaker\\": "src/"
+            "Appzcoder\\Aliasify\\": "src/"
         }
     }
 }

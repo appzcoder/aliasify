@@ -1,6 +1,6 @@
 <?php
 
-namespace Appzcoder\AliasMaker;
+namespace Appzcoder\Aliasify;
 
 use RuntimeException;
 
